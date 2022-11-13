@@ -34,11 +34,11 @@ pkg install git
 
 git clone https://github.com/Rihan444/R-CL
 
-cd R-OPT
+cd R-CL
 
 chmod +x *
 
-python R-OPT.py
+python R-CL.py
 
 Done ✅😃 Thank you 💓
 
